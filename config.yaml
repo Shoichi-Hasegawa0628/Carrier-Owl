@@ -3,9 +3,28 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        symbol emergence: 100
+        emergent communication: 100
+        language evolution: 100
+        language understanding: 100
+        reinforcement learning: 100
+        imitation learning: 100
+        control as inference: 100
+        
+        contrastive learning: 50
+        variational inference: 50
+        latent structure: 50
+        robot: 50
+        control: 50
+        
+        Vision and Language: 25
+        Transformer: 25
+        Human Robot Interaction: 25
+        latent space: 25
+        representation learning: 25
+                
+        manipulation: 1
+
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 100
