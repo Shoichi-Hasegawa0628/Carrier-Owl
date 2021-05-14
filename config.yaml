@@ -7,7 +7,6 @@ keywords:
         emergent communication: 100
         language evolution: 100
         language understanding: 100
-        compositionality: 100
         compositional representations: 100
         semantic representations: 100
         reinforcement learning: 100
@@ -16,6 +15,7 @@ keywords:
         
         Semantic mapping: 50
         vision and language navigation: 50
+        compositionality: 50
         contrastive learning: 50
         variational inference: 50
         latent structure: 50
