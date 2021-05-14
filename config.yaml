@@ -14,12 +14,17 @@ keywords:
         imitation learning: 100
         control as inference: 100
         
+        Semantic mapping: 50
+        vision and language navigation: 50
         contrastive learning: 50
         variational inference: 50
         latent structure: 50
         robot: 50
         control: 50
         
+        Robot Learning: 25
+        Robot navigation: 25
+        Active inference: 25
         Vision and Language: 25
         Transformer: 25
         Human Robot Interaction: 25
